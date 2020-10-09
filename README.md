@@ -1,2 +1,2 @@
-# Analytical-Hierarchy-Process-
+# Analytical-Hierarchy-Process
 AHP
